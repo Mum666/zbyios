@@ -5,7 +5,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001331/index.m3
 #EXTINF:-1 tvg-id="A02" tvg-name="CCTV2" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV2.png" group-title="央视高清",CCTV-2 财经
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A03" tvg-name="CCTV3" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV3.png" group-title="央视高清",CCTV-3 综艺
-http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228392/index.m3u8
+http://43.141.130.70/hlslive-tx-cdn.ysp.cctv.cn/ysp/2022576503.m3u8
 #EXTINF:-1 tvg-id="A04" tvg-name="CCTV4" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV4.png" group-title="央视高清",CCTV-4 中文国际
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV5.png" group-title="央视高清",CCTV-5 体育
@@ -218,7 +218,8 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001322/index.m3
 #EXTINF:-1 tvg-id="PH01" tvg-name="凤凰中文" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix1.png" group-title="国际时事",凤凰中文
 http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="PH02" tvg-name="凤凰资讯" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix2.png" group-title="国际时事",凤凰资讯
-http://50.7.238.114:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
+http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=MB5B7253262872532628&ct=19249&tsum=e2b2dcd00f39adb64b6c03601da1e0e0
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156407
 #EXTINF:-1 tvg-id="PH03" tvg-name="凤凰香港" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Phoenix3.png" group-title="国际时事",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 #EXTINF:-1 tvg-id="NHK" tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际时事",NHK World
