@@ -46,19 +46,19 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001309/index.m3
 
 #新闻财经频道
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
-http://125.71.250.138:8899/udp/239.93.0.162:2192
+http://171.88.35.94:4000/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
-http://125.71.250.138:8899/udp/239.93.1.9:2192
+http://171.88.35.94:4000/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://171.223.215.229:4000/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
-http://210.210.155.37/uq2663/h/h157/index2.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix_Chinese
+http://171.88.134.186:3333/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
-http://171.223.215.229:4000/udp/239.93.1.4:2191
+http://171.88.35.94:4000/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
-http://125.71.250.138:8899/udp/239.93.0.118:2191
+http://182.149.106.41:8888/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
-http://125.71.250.138:8899/udp/239.93.1.4:2191
+http://171.221.88.192:4022/udp/239.93.0.118:2191
 #EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="港澳台",凤凰中文台
 http://171.223.215.229:4000/udp/239.93.0.162:2192
 #EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="港澳台",凤凰资讯台
